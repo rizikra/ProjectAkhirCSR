@@ -65,7 +65,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
             android:text="Register"
-            android:id="@+id/btn_login"
+            android:id="@+id/btn_register"
             android:padding="12dp"
             android:background="@drawable/white_rounded_button"/>
 
@@ -86,5 +86,6 @@
         android:layout_alignRight="@id/progressBar"
         android:layout_alignLeft="@id/progressBar"
         android:layout_alignEnd="@id/progressBar"
-        android:layout_alignStart="@id/progressBar" />
+        android:layout_alignStart="@id/progressBar"
+        android:id="@+id/loadingPleaseWait"/>
 </RelativeLayout>

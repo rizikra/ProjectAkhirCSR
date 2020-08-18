@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355547201252",
+    "firebase_url": "https://projectakhir-bc3b9.firebaseio.com",
+    "project_id": "projectakhir-bc3b9",
+    "storage_bucket": "projectakhir-bc3b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355547201252:android:7b1966f907d120df3f36f1",
+        "android_client_info": {
+          "package_name": "com.rizik.training.projectig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355547201252-6rhlihmrndpdop44avvnidt50qvq2m47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rizik.training.projectig",
+            "certificate_hash": "ff8108cd5b5b9a5f1c2bea11546890a197b13f35"
+          }
+        },
+        {
+          "client_id": "355547201252-i350m9n00sbnna6tus9c8m3emmemmhsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCX8M1ajjSdVt5ay6oFKFiKy367M0-n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355547201252-i350m9n00sbnna6tus9c8m3emmemmhsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
