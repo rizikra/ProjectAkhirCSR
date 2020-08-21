@@ -178,16 +178,17 @@
                     android:layout_height="35dp"
                     android:src="@drawable/ic_phone"
                     android:layout_centerVertical="true"/>
+
                 <EditText
+                    android:id="@+id/phoneNumber"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/phoneNumber"
                     android:layout_centerVertical="true"
                     android:layout_marginStart="40dp"
                     android:layout_marginLeft="40dp"
                     android:background="@null"
-                    android:inputType="textNoSuggestions"
-                    android:hint="Email"/>
+                    android:hint="Phone Number"
+                    android:inputType="textNoSuggestions" />
             </RelativeLayout>
         </RelativeLayout>
     </ScrollView>
